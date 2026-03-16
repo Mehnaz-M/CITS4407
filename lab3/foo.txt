@@ -1,0 +1,13 @@
+foo is a popular name for a temporary or example file, variable or function.
+
+Another popular example name is bar
+
+These names are kinda weird but it means they are very unlikely to conflict with real names.
+This makes them perfect for examples.
+
+
+
+
+
+For example:
+echo "foo" > bar.txt
